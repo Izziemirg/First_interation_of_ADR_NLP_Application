@@ -1,0 +1,11 @@
+torch
+torchvision
+transformers
+gradio
+shap
+tensorflow_hub
+Pillow
+matplotlib
+spacy_streamlit
+streamlit
+scipy
